@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bfb58f6-8c08-4b4c-8600-4e65a280ae32" name="Default" comment="new">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/bin/com/dex/WeDemBoyz/Game$STATE.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/bin/com/dex/WeDemBoyz/Game.class" afterPath="" />
@@ -152,8 +151,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="811" />
-    <option name="y" value="733" />
+    <option name="x" value="921" />
+    <option name="y" value="400" />
     <option name="width" value="1400" />
     <option name="height" value="975" />
   </component>
@@ -355,7 +354,7 @@
       <option name="presentableId" value="Default" />
       <updated>1518213575783</updated>
       <workItem from="1518213589538" duration="352000" />
-      <workItem from="1518533240162" duration="893000" />
+      <workItem from="1518533240162" duration="989000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1518533836249</created>
@@ -371,14 +370,21 @@
       <option name="project" value="LOCAL" />
       <updated>1518533980940</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new">
+      <created>1518534228218</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1518534228218</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1245000" />
+    <option name="totallyTimeSpent" value="1341000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="811" y="733" width="1400" height="975" extended-state="0" />
+    <frame x="921" y="400" width="1400" height="975" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -417,8 +423,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="new" />
     <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
